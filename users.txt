@@ -1,1 +1,1 @@
-SerialNumberINA603X40F,SerialNumberseconmachine<>
+SerialNumberINA603X40F,SerialNumberseconmachine<>wmic bios get serialnumber

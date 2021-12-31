@@ -1,1 +1,1 @@
-UUIDBCF60E4A-6FCF-2CB2-EC9F-2F623CFF7C62,SerialNumberseconmachine<>wmic bios get serialnumber
+UUIDBCF60E4A-6FCF-2CB2-EC9F-2F623CFF7C62,SerialNumberseconmachine<>wmic csproduct get UUID
